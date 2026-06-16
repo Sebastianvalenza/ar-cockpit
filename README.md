@@ -25,7 +25,7 @@ The cockpit ships with a deterministic synthetic book (251 B2B accounts, ~€36M
 
 ## Part of an operations ecosystem
 
-AR Cockpit is one of five control surfaces for a single multi-hub operation, built to follow one decision down the whole chain — *from the shift being covered to the cash being collected*. It is the last link: the cash that closes the loop the other four open.
+AR Cockpit is one of six control surfaces for a single multi-hub operation, built to follow one decision down the whole chain — *from the shift being covered to the cash being collected*. It is the last link: the cash that closes the loop the other five open.
 
 | Stage | Tool | The question it answers |
 |---|---|---|
